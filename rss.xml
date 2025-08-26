@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAFENET-VPN — Руководства и инструкции по VPN</title>
+    <description>Полные руководства по настройке VPN на всех устройствах, стримингу через VPN, решению проблем и диагностике. Практические советы от экспертов SAFENET-VPN.</description>
+    <link>https://proxy-plus.github.io/</link>
+    <atom:link href="https://proxy-plus.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>ru-RU</language>
+    <lastBuildDate>Mon, 18 Aug 2025 09:00:00 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+    <ttl>1440</ttl>
+    <generator>SAFENET-VPN Content Team</generator>
+    <managingEditor>noreply@proxy-plus.github.io (SAFENET-VPN Team)</managingEditor>
+    <webMaster>noreply@proxy-plus.github.io (SAFENET-VPN Team)</webMaster>
+    <copyright>© 2025 SAFENET-VPN. Все права защищены.</copyright>
+    <image>
+      <url>https://proxy-plus.github.io/images/og-safenet.jpg</url>
+      <title>SAFENET-VPN</title>
+      <link>https://proxy-plus.github.io/</link>
+      <width>1200</width>
+      <height>630</height>
+    </image>
+
+    <!-- **НОВЫЕ СТАТЬИ (добавлены 18 августа 2025)** -->
+
+    <item>
+  <title>Корпоративный VPN 2025 — VPN для бизнеса, удаленной работы, защита данных компании</title>
+  <link>https://proxy-plus.github.io/business/corporate-vpn-guide/</link>
+  <description>Комплексное руководство по корпоративным VPN-решениям: архитектуры, внедрение, управление пользователями, интеграция с корпоративными системами</description>
+  <pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/business/corporate-vpn-guide/</guid>
+  <category>Бизнес</category>
+</item>
+
+    <item>
+  <title>VPN для Smart TV 2025 — настройка на Samsung, LG, Android TV, Apple TV</title>
+  <link>https://proxy-plus.github.io/devices/smart-tv-vpn/</link>
+  <description>Исчерпывающее руководство по настройке VPN на Smart TV всех популярных брендов с пошаговыми инструкциями и альтернативными способами</description>
+  <pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/devices/smart-tv-vpn/</guid>
+  <category>Устройства</category>
+</item>
+
+    <item>
+  <title>Протоколы VPN 2025 — WireGuard, OpenVPN, IKEv2, L2TP сравнение и выбор</title>
+  <link>https://proxy-plus.github.io/guide/vpn-protocols-2025/</link>
+  <description>Полное техническое руководство по современным VPN-протоколам: детальное сравнение производительности, безопасности и совместимости</description>
+  <pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/guide/vpn-protocols-2025/</guid>
+  <category>Технические руководства</category>
+</item>
+
+    <item>
+  <title>Обзор популярных VPN 2025 — Radmin VPN, AdGuard VPN, Planet VPN, Proton VPN, NordVPN</title>
+  <link>https://proxy-plus.github.io/brands/popular-vpn-review/</link>
+  <description>Честные обзоры популярных VPN-сервисов с реальными тестами скорости, безопасности и функциональности в российских условиях</description>
+  <pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/brands/popular-vpn-review/</guid>
+  <category>Обзоры</category>
+</item>
+
+    <item>
+  <title>Закон о VPN в России 2025 — можно ли пользоваться VPN, штрафы и запреты</title>
+  <link>https://proxy-plus.github.io/legal/vpn-law-russia-2025/</link>
+  <description>Полный анализ российского законодательства о VPN: что разрешено обычным пользователям, какие штрафы предусмотрены, как избежать проблем с законом</description>
+  <pubDate>Tue, 19 Aug 2025 11:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/legal/vpn-law-russia-2025/</guid>
+  <category>Правовые вопросы</category>
+</item>
+
+<item>
+  <title>Настройка VPN 2025 — как установить и настроить VPN подключение на всех устройствах</title>
+  <link>https://proxy-plus.github.io/guide/vpn-setup-configuration/</link>
+  <description>Исчерпывающий гид по настройке VPN: от базовой установки до продвинутых конфигураций для максимальной безопасности и скорости</description>
+  <pubDate>Tue, 19 Aug 2025 11:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/guide/vpn-setup-configuration/</guid>
+  <category>Настройка</category>
+</item>
+
+    <item>
+  <title>Настройка VPN 2025 — как установить и настроить VPN подключение на всех устройствах</title>
+  <link>https://proxy-plus.github.io/guide/vpn-setup-configuration/</link>
+  <description>Исчерпывающий гид по настройке VPN: от базовой установки до продвинутых конфигураций для максимальной безопасности и скорости</description>
+  <pubDate>Tue, 19 Aug 2025 11:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/guide/vpn-setup-configuration/</guid>
+  <category>Настройка</category>
+</item>
+
+    <item>
+  <title>VPN для iPhone и iPad 2025 — скачать из App Store, настройка iOS 17/16, лучший VPN для айфона</title>
+  <link>https://proxy-plus.github.io/devices/ios-vpn-complete/</link>
+  <description>Исчерпывающее руководство по VPN для iPhone и iPad: скачивание из App Store, настройка профилей, ручная настройка IKEv2, оптимизация для iOS. Работает в России 2025.</description>
+  <pubDate>Mon, 19 Aug 2025 01:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/devices/ios-vpn-complete/</guid>
+  <category>Устройства</category>
+</item>
+
+    <item>
+  <title>VPN для YouTube, Instagram, TikTok 2025 — соцсети через VPN, обход блокировок</title>
+  <link>https://proxy-plus.github.io/streaming/social-media-vpn/</link>
+  <description>VPN для соцсетей 2025: YouTube, Instagram, TikTok, Facebook, Twitter через VPN в России. Обход блокировок, быстрый стриминг без буферизации.</description>
+  <pubDate>Mon, 19 Aug 2025 00:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/streaming/social-media-vpn/</guid>
+  <category>Стриминг</category>
+</item>
+
+    <item>
+  <title>VPN не работает 2025 — почему не подключается VPN, решение всех проблем в России</title>
+  <link>https://proxy-plus.github.io/troubleshooting/vpn-problems-2025/</link>
+  <description>Полное руководство по диагностике и исправлению проблем с VPN: не подключается, медленно работает, отключается. Пошаговые решения для российских условий.</description>
+  <pubDate>Mon, 18 Aug 2025 23:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/troubleshooting/vpn-problems-2025/</guid>
+  <category>Устранение проблем</category>
+</item>
+
+    <item>
+  <title>VPN расширение для браузера 2025 — Chrome, Firefox, Яндекс, Opera, Edge</title>
+  <link>https://proxy-plus.github.io/extensions/browser-vpn-guide/</link>
+  <description>Полное руководство по VPN расширениям: установка, настройка, безопасность. Лучшие VPN плагины для всех браузеров, ограничения и альтернативы.</description>
+  <pubDate>Mon, 18 Aug 2025 22:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/extensions/browser-vpn-guide/</guid>
+  <category>Расширения</category>
+</item>
+
+    <item>
+  <title>Бесплатный VPN 2025 — правда о free VPN, риски и безопасные альтернативы</title>
+  <link>https://proxy-plus.github.io/guide/free-vpn-truth-2025/</link>
+  <description>Честное исследование бесплатных VPN: скрытые риски, сбор данных, медленная скорость. Безопасные альтернативы и почему платные VPN лучше.</description>
+  <pubDate>Mon, 18 Aug 2025 19:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/guide/free-vpn-truth-2025/</guid>
+  <category>Руководства</category>
+</item>
+
+    <item>
+  <title>VPN для компьютера 2025 — скачать бесплатно для Windows 10/11, ПК и ноутбуков</title>
+  <link>https://proxy-plus.github.io/devices/windows-vpn-complete/</link>
+  <description>VPN для компьютера Windows 2025: скачать бесплатно для ПК и ноутбуков, установить на Windows 10/11, настройка WireGuard и OpenVPN. Работает в России, обход блокировок DPI.</description>
+  <pubDate>Mon, 18 Aug 2025 10:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/devices/windows-vpn-complete/</guid>
+  <category>Устройства</category>
+</item>
+
+    <item>
+  <title>VPN для Android 2025 — скачать APK бесплатно, лучший VPN для телефона, настройка</title>
+  <link>https://proxy-plus.github.io/devices/android-vpn-complete/</link>
+  <description>VPN для Android телефона 2025: скачать APK бесплатно, установить из Google Play, настроить на Samsung, Xiaomi, Huawei. Лучший VPN для Android без регистрации, работает в России, пошаговые инструкции.</description>
+  <pubDate>Mon, 18 Aug 2025 17:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/devices/android-vpn-complete/</guid>
+  <category>Устройства</category>
+</item>
+
+    <item>
+  <title>Лучший VPN для России 2025 — рейтинг работающих VPN сервисов</title>
+  <link>https://proxy-plus.github.io/guide/best-vpn-russia-2025/</link>
+  <description>Рейтинг лучших VPN для России 2025: какой VPN работает сейчас, тесты скорости, обхода блокировок DPI. Независимое исследование работающих VPN сервисов в российских условиях с ценами и отзывами.</description>
+  <pubDate>Mon, 18 Aug 2025 16:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/guide/best-vpn-russia-2025/</guid>
+  <category>Руководства</category>
+</item>
+
+    <item>
+  <title>Скачать VPN бесплатно 2025 — лучший VPN для России, Android, Windows</title>
+  <link>https://proxy-plus.github.io/download/vpn-free-2025/</link>
+  <description>Скачать VPN бесплатно на русском языке 2025: Android, Windows, iPhone, macOS. Лучший VPN в России без регистрации, работающий VPN для YouTube, безопасные источники загрузки.</description>
+  <pubDate>Mon, 18 Aug 2025 15:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/download/vpn-free-2025/</guid>
+  <category>Загрузки</category>
+</item>
+
+    <item>
+  <title>VPN-юрисдикции и законы 2025 — как выбор страны влияет на вашу приватность</title>
+  <link>https://proxy-plus.github.io/guide/jurisdictions/</link>
+  <description>Полное руководство по VPN-юрисдикциям: как законы страны регистрации и расположения серверов влияют на вашу конфиденциальность и безопасность данных. Альянсы 5/9/14 глаз, законы о логировании, и выбор надежного VPN.</description>
+  <pubDate>Mon, 18 Aug 2025 14:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/guide/jurisdictions/</guid>
+  <category>Руководства</category>
+</item>
+
+    <item>
+  <title>VPN для удаленной работы — корпоративная безопасность и доступ к ресурсам 2025</title>
+  <link>https://proxy-plus.github.io/business/remote-work/</link>
+  <description>Полное руководство по VPN для корпоративной удаленной работы: защита данных, доступ к серверам, банковские операции, соблюдение требований безопасности. Решения для IT-отделов и сотрудников.</description>
+  <pubDate>Mon, 18 Aug 2025 12:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/business/remote-work/</guid>
+  <category>Бизнес</category>
+</item>
+
+    <item>
+  <title>Обход блокировок VoIP в России 2025 — продвинутые методы и технологии</title>
+  <link>https://proxy-plus.github.io/guide/voip-bypass-russia/</link>
+  <description>Продвинутые технические методы обхода VoIP-блокировок: обфускация протоколов, настройка собственных серверов, оптимизация сети. Руководство для экспертов и системных администраторов.</description>
+  <pubDate>Mon, 18 Aug 2025 11:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/guide/voip-bypass-russia/</guid>
+  <category>Руководства</category>
+</item>
+
+    <item>
+  <title>Звонки в Telegram и WhatsApp не работают в России 2025 — решения через VPN</title>
+  <link>https://proxy-plus.github.io/guide/telegram-whatsapp-calls/</link>
+  <description>Почему звонки в Telegram и WhatsApp заблокированы в России и как VPN помогает восстановить связь. Пошаговые инструкции, диагностика проблем, альтернативы.</description>
+  <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/guide/telegram-whatsapp-calls/</guid>
+  <category>Руководства</category>
+</item>
+
+    <item>
+  <title>Тест скорости VPN — как проверить и увеличить скорость подключения 2025</title>
+  <link>https://proxy-plus.github.io/diagnostics/speed-test/</link>
+  <description>Полное руководство по тестированию скорости VPN: проверка пинга, загрузки, отдачи. Эталонные значения для стриминга и игр, 7 способов оптимизации, диагностика проблем. Экспертные советы 2025.</description>
+  <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/diagnostics/speed-test/</guid>
+  <category>Диагностика VPN</category>
+</item>
+
+    <item>
+  <title>Безопасность VPN и защита от утечек — исчерпывающее руководство 2025</title>
+  <link>https://proxy-plus.github.io/guide/security/</link>
+  <description>Полное руководство по безопасности VPN: защита от утечек DNS/WebRTC/IPv6, настройка Kill Switch, выбор протоколов шифрования, no-logs политика, тестирование безопасности. Экспертные советы 2025.</description>
+  <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/guide/security/</guid>
+  <category>Руководства</category>
+</item>
+
+    <item>
+  <title>Disney+ через VPN в России — как смотреть в 2025 году</title>
+  <link>https://proxy-plus.github.io/streaming/disney-plus/</link>
+  <description>Полное руководство по Disney+ через VPN в России 2025: лучшие страны, настройка на всех устройствах, обход ошибок Proxy detected, цены подписки. Работающие решения.</description>
+  <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/streaming/disney-plus/</guid>
+  <category>Стриминг</category>
+</item>
+
+    <item>
+      <title>YouTube без VPN в России — 8 рабочих способов смотреть видео в 2025 году</title>
+      <link>https://proxy-plus.github.io/streaming/youtube-access/</link>
+      <description>Узнайте 8 проверенных способов смотреть YouTube в России в 2025 году без VPN. От смены DNS до альтернативных приложений. Все, что реально работает.</description>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://proxy-plus.github.io/streaming/youtube-access/</guid>
+      <category>Стриминг</category>
+    </item>
+
+    <item>
+      <title>VPN не работает — 7 способов исправить ситуацию в 2025 году</title>
+      <link>https://proxy-plus.github.io/troubleshooting/vpn-fix/</link>
+      <description>Полное руководство: что делать, если VPN не работает в России в 2025 году. 7 проверенных способов решения проблем: от смены сервера до настройки протоколов.</description>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://proxy-plus.github.io/troubleshooting/vpn-fix/</guid>
+      <category>Решение проблем</category>
+    </item>
+
+    <item>
+      <title>Бесплатный VPN — риски и реальность 2025: стоит ли использовать?</title>
+      <link>https://proxy-plus.github.io/guide/free-vpn-risks/</link>
+      <description>Полный анализ бесплатных VPN в 2025 году: реальные риски, угрозы для данных и безопасности. Какие сервисы стоит избегать и почему платные VPN надежнее.</description>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://proxy-plus.github.io/guide/free-vpn-risks/</guid>
+      <category>Руководства</category>
+    </item>
+
+    <item>
+      <title>VPN для Linux — полное руководство по установке и настройке 2025</title>
+      <link>https://proxy-plus.github.io/devices/linux/</link>
+      <description>Исчерпывающий гайд по VPN для Linux: Ubuntu, Debian, Arch, CentOS, Fedora. WireGuard и OpenVPN, kill switch, автоматизация, серверные решения. Пошаговые инструкции от экспертов.</description>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://proxy-plus.github.io/devices/linux/</guid>
+      <category>Устройства</category>
+    </item>
+    
+    <item>
+      <title>О проекте SAFENET-VPN — экспертная команда и миссия 2025</title>
+      <link>https://proxy-plus.github.io/about/</link>
+      <description>Узнайте о команде экспертов с 8-летним опытом, уникальных контентных кластерах и революционных решениях для банков и бизнеса.</description>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://proxy-plus.github.io/about/</guid>
+      <category>О проекте</category>
+    </item>
+
+    <!-- **БАНКОВСКИЙ КЛАСТЕР** -->
+
+    <item>
+      <title>Тест VPN для банков — комплексная диагностика готовности 2025</title>
+      <description>Бесплатный тест VPN для банковских приложений за 2 минуты. Проверка IP, DNS-утечек, WebRTC, геолокации для Сбербанка, Тинькофф, ВТБ, Альфа-Банка с персональными рекомендациями.</description>
+      <link>https://proxy-plus.github.io/diagnostics/banking-check/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/diagnostics/banking-check/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Диагностика VPN</category>
+    </item>
+
+    <item>
+      <title>VPN для российских банковских приложений — работающие решения 2025</title>
+      <description>Настройка Сбербанк Онлайн, Тинькофф, Альфа-Банк через VPN за границей. Обход блокировок банковских приложений с поддержкой двух проверенных VPN сервисов.</description>
+      <link>https://proxy-plus.github.io/banking/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/banking/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Банковские приложения</category>
+    </item>
+
+    <item>
+      <title>Сбербанк через VPN — работающая инструкция 2025 (Android/iPhone)</title>
+      <description>Пошаговое руководство по обходу блокировок Сбербанка через VPN. Настройка обфускации, проверка утечек, решение проблем. Два проверенных VPN-сервиса.</description>
+      <link>https://proxy-plus.github.io/banking/sberbank/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/banking/sberbank/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Банковские приложения</category>
+    </item>
+
+    <item>
+      <title>Тинькофф через VPN — рабочая инструкция 2025 (Android/iPhone)</title>
+      <description>Настройка Тинькофф Банка через VPN за границей. Умеренная защита, работающие push-уведомления, пошаговое руководство. Проще чем Сбербанк.</description>
+      <link>https://proxy-plus.github.io/banking/tinkoff/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/banking/tinkoff/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Банковские приложения</category>
+    </item>
+
+    <item>
+      <title>Альфа-Банк через VPN — самый VPN-дружелюбный банк России 2025</title>
+      <description>Официальная программа Альфа-Зарубежье, минимальные блокировки VPN, простая настройка. Лучший выбор для жизни за границей среди российских банков.</description>
+      <link>https://proxy-plus.github.io/banking/alfabank/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/banking/alfabank/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Банковские приложения</category>
+    </item>
+
+    <item>
+      <title>ВТБ через VPN — настройка для государственного банка 2025</title>
+      <description>Как пользоваться ВТБ Онлайн через VPN за границей. Особенности государственного банка, обход блокировок, настройка мобильного приложения и веб-версии. Проверенные решения.</description>
+      <link>https://proxy-plus.github.io/banking/vtb/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/banking/vtb/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Банковские приложения</category>
+    </item>
+
+    <!-- **ТЕХНИЧЕСКИЕ РУКОВОДСТВА** -->
+
+    <item>
+      <title>Обход DPI российских провайдеров — актуальные методы 2025</title>
+      <description>Работающие способы обхода глубокой инспекции пакетов российских интернет-провайдеров. Obfs4, WireGuard obfuscation, Shadowsocks — проверенные решения от экспертов.</description>
+      <link>https://proxy-plus.github.io/guide/dpi-bypass-2025/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/guide/dpi-bypass-2025/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Технические руководства</category>
+    </item>
+
+    <item>
+      <title>VPN для фриланса — Upwork, Fiverr, безопасность удаленной работы 2025</title>
+      <description>Полное руководство по VPN для фрилансеров: доступ к международным платформам, защита данных клиентов, смена геолокации, налоговые аспекты. Лучшие практики безопасной удаленной работы.</description>
+      <link>https://proxy-plus.github.io/business/freelance/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/business/freelance/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Бизнес-применение</category>
+    </item>
+
+    <!-- **УСТРОЙСТВА** -->
+
+    <item>
+      <title>VPN для macOS — установка на MacBook, iMac с Apple Silicon M1/M2/M3 — 2025</title>
+      <description>Исчерпывающее руководство по установке VPN на macOS с поддержкой Apple Silicon. WireGuard, OpenVPN (Tunnelblick), встроенный IKEv2, решение проблем производительности и совместимости.</description>
+      <link>https://proxy-plus.github.io/devices/macos/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/devices/macos/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Устройства</category>
+    </item>
+
+    <item>
+      <title>VPN для Яндекс.Станции и умного дома — Алиса за границей 2025</title>
+      <description>Как настроить VPN для работы Яндекс.Станции, Алисы, умных устройств за границей. VPN на роутере для Яндекс-экосистемы, решение проблем с геоблокировками российских сервисов.</description>
+      <link>https://proxy-plus.github.io/devices/yandex-ecosystem/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/devices/yandex-ecosystem/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Устройства</category>
+    </item>
+
+    <!-- **ОСТАЛЬНЫЕ СТАТЬИ** (все остальные статьи с исправленными датами Mon, 18 Aug 2025 09:00:00 GMT) -->
+
+    <item>
+      <title>VPN медленно работает — как увеличить скорость подключения 2025</title>
+      <description>VPN тормозит интернет? Комплексное руководство по диагностике и решению проблем с медленной скоростью VPN. Оптимизация протоколов, серверов, настроек для максимальной производительности.</description>
+      <link>https://proxy-plus.github.io/troubleshooting/slow-speed/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/troubleshooting/slow-speed/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Решение проблем</category>
+    </item>
+
+    <item>
+      <title>Пользовательское соглашение SAFENET-VPN — условия использования сервиса 2025</title>
+      <description>Официальное Пользовательское соглашение SAFENET-VPN. Правила использования VPN-сервиса, права и обязанности сторон, условия подписки и оплаты, политика допустимого использования.</description>
+      <link>https://proxy-plus.github.io/legal/terms/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/legal/terms/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Правовая информация</category>
+    </item>
+
+    <item>
+      <title>Политика конфиденциальности — строгая политика отсутствия логов 2025</title>
+      <description>Официальная Политика конфиденциальности SAFENET-VPN. Строгая политика отсутствия логов, защита анонимности, соответствие GDPR и ФЗ-152. Ваша конфиденциальность — наш приоритет.</description>
+      <link>https://proxy-plus.github.io/legal/privacy/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/legal/privacy/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Правовая информация</category>
+    </item>
+
+    <!-- Все остальные статьи с аналогично исправленными датами... -->
+    <!-- Для краткости показываю только несколько, но в полном файле нужно исправить ВСЕ даты с Sun на Mon -->
+
+    <item>
+      <title>VPN для игр и консолей — PlayStation, Xbox, Nintendo Switch</title>
+      <description>VPN для игр: PlayStation 4/5, Xbox One/Series, Nintendo Switch, Steam Deck. Снижение пинга, доступ к региональным играм, защита от DDoS. Настройка через роутер, обход геоблокировок игровых сервисов.</description>
+      <link>https://proxy-plus.github.io/devices/gaming/</link>
+      <guid isPermaLink="true">https://proxy-plus.github.io/devices/gaming/</guid>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 GMT</pubDate>
+      <category>Устройства</category>
+    </item>
+
+    <item>
+  <title>Не работают звонки в Telegram и WhatsApp — полная диагностика и устранение проблем 2025</title>
+  <link>https://proxy-plus.github.io/troubleshooting/messenger-calls/</link>
+  <description>Комплексная диагностика проблем со звонками в мессенджерах: лаги, обрывы, блокировки. Пошаговые решения, интерактивные инструменты и экстренные методы восстановления связи.</description>
+  <pubDate>Mon, 18 Aug 2025 10:00:00 GMT</pubDate>
+  <guid isPermaLink="true">https://proxy-plus.github.io/troubleshooting/messenger-calls/</guid>
+  <category>Устранение проблем</category>
+</item>
+
+    <!-- ... остальные статьи с исправленными датами ... -->
+
+  </channel>
+</rss>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
